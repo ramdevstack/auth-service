@@ -1,0 +1,26 @@
+# Environment variables — never commit these
+.env
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Database files
+*.db
+*.sqlite3
+
+# Mac system files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
